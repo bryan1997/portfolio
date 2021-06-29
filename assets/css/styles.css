@@ -444,6 +444,7 @@ img{
 .works__container{
   justify-items: center;
   row-gap: 2rem;
+  margin-bottom: 80px;
 }
 
 .works__img{
